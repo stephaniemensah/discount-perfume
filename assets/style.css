@@ -1,0 +1,13 @@
+.hero {
+  background-image: url('../assets/images/img2.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.perfume{
+    background-image: url('../assets/images/img1.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
